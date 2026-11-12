@@ -7,4 +7,4 @@
 :align: left
 ```
 \
-Je suis étudiant(e) en bachelor en **[nom du programme]** à l'**UNIL**, avec un intérêt particulier pour **[domaine principal / spécialisation]**.
+Je suis Victor Ravoux, étudiant en bachelor en **FGSE** à l'**UNIL**, avec un intérêt particulier pour **les science de l'environnement**.
